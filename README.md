@@ -6,4 +6,3 @@
 
 
 This repo hosts programming challenges from the textbook completed by myself in order to improve my C++ skills. 
-The Garden folder has sample code of interesting Algorithms.
